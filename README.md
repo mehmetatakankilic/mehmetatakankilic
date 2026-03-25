@@ -6,12 +6,12 @@
 
 ### 👨‍💻 About Me
 
-Hi there! I am a  **Computer Engineering** student (GPA: 3.18) at Konya Food and Agriculture University, based in Konya, Türkiye. I am a passionate Full-Stack Developer with hands-on internship experience in building robust web architectures.
+Hi there! I am a **Computer Engineering** student (GPA: 3.18) at Konya Food and Agriculture University, based in Konya, Türkiye. I am a passionate Full-Stack Developer with hands-on internship experience in building robust web architectures.
 
 - 🔭 **Currently working on:** A comprehensive News App using **Angular** and a "Pediatric Rash Analysis" mobile app using **React Native**.
 - 💼 **Previous experience:**
   - **Software Development Intern** @ Goaltech *(React, HTML)*
-  - **Engineering Intern** @ Goaltech *(FastAPI, Docker)*
+  - **Volunteer Engineering Intern** @ Goaltech *(FastAPI, Docker)*
   - **Intern Engineer** @ NRF Grup
 - 🌱 **Currently learning:** Deepening my backend architecture knowledge with **Java Spring Boot**, advanced **Angular**.
 - 💬 **Ask me about:** Java, Spring Boot, Python, React, Angular
@@ -40,10 +40,3 @@ Hi there! I am a  **Computer Engineering** student (GPA: 3.18) at Konya Food and
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![Atakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetatakankilic&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetatakankilic&layout=compact&theme=radium)
