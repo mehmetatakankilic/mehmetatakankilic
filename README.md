@@ -6,13 +6,15 @@
 
 ### 👨‍💻 About Me
 
-Hi there! I am a senior **Computer Engineering** student (GPA: 3.18) at Konya Food and Agriculture University, based in Konya, Türkiye. I am a passionate Full-Stack Developer with hands-on internship experience in building robust web architectures.
+Hi there! I am a  **Computer Engineering** student (GPA: 3.18) at Konya Food and Agriculture University, based in Konya, Türkiye. I am a passionate Full-Stack Developer with hands-on internship experience in building robust web architectures.
 
 - 🔭 **Currently working on:** A comprehensive News App using **Angular** and a "Pediatric Rash Analysis" mobile app using **React Native**.
-- 💼 **Previous experience:** Software Dev. & Engineering Intern @ **Goaltech** (React, FastAPI, Docker) & Intern Engineer @ **NRF Grup**.
-- 🌱 **Currently learning:** Deepening my backend architecture knowledge with **Java Spring Boot**, advanced **Angular**, and **Cybersecurity**.
-- 💬 **Ask me about:** Java, Spring Boot, Python, React, Angular, or Automata Theory!
-- ⚡ **Fun fact:** I built the digital presence for my family's business, *Resul Kılıç Arıcılık ve Bal*, and I enjoy 3D printing.
+- 💼 **Previous experience:**
+  - **Software Development Intern** @ Goaltech *(React, HTML)*
+  - **Engineering Intern** @ Goaltech *(FastAPI, Docker)*
+  - **Intern Engineer** @ NRF Grup
+- 🌱 **Currently learning:** Deepening my backend architecture knowledge with **Java Spring Boot**, advanced **Angular**.
+- 💬 **Ask me about:** Java, Spring Boot, Python, React, Angular
 
 ### 🛠️ Tech Stack
 
@@ -22,16 +24,22 @@ Hi there! I am a senior **Computer Engineering** student (GPA: 3.18) at Konya Fo
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5 & CSS3](https://img.shields.io/badge/HTML5_%26_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Backend, Data & Infrastructure**
+**Backend Technologies**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Architecture**
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
