@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-Hi there! I am a **Computer Engineering** student (GPA: 3.18) at Konya Food and Agriculture University, based in Konya, Türkiye. I am a passionate Full-Stack Developer with hands-on internship experience in building robust web architectures.
+Hi there! I am a **Computer Engineering** student (GPA: 3.18) at Konya Food and Agriculture University, based in Konya, Türkiye. I am a Full-Stack Developer with hands-on internship experience in building robust web architectures.
 
 - 🔭 **Currently working on:** A comprehensive News App using **Angular** and a "Pediatric Rash Analysis" mobile app using **React Native**.
 - 💼 **Previous experience:**
