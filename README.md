@@ -1,4 +1,4 @@
-# Hi 👋, I'm Atakan
+# Hi 👋, I'm Mehmet Atakan
 
 <h3 align="left">
   <a href="https://git.io/typing-svg">
@@ -44,4 +44,5 @@ Hi there! I am a **Computer Engineering** student (GPA: 3.18) at Konya Food and 
 **Tools & Architecture**
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
